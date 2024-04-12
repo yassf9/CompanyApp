@@ -1,2 +1,0 @@
-# CompanyApp
-readme file

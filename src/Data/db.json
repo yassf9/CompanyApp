@@ -1,0 +1,44 @@
+{
+  "company": [
+    {
+      "id": "1",
+      "name": "NT Infotech ",
+      "email": "n@in.com",
+      "phone": "79999999",
+      "address": "adresse",
+      "type": "MNC"
+    },
+    {
+      "id": "2",
+      "name": "ABC Ltd",
+      "email": "abc@in.com1",
+      "phone": "8787878787",
+      "Address": "no 5, 5th street,\nchennai,\nIndai",
+      "type": "MNC"
+    },
+    {
+      "id": "3",
+      "name": "Dr.TNR Infotech",
+      "email": "tnr@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": "4",
+      "name": "NT Techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "address": "",
+      "type": "MNC"
+    },
+    {
+      "id": "5",
+      "name": "tech",
+      "email": "tech1@gmail.com",
+      "phone": "061045357",
+      "address": "tech company",
+      "type": "DOMESTIC"
+    }
+  ]
+}
